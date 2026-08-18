@@ -1,0 +1,15 @@
+venv/
+.venv/
+.env
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+layer1_kb/chroma_db/
+*.db
+*.sqlite3
+*.wav
+*.mp3
+.vscode/
+.idea/
+.DS_Store
