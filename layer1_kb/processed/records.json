@@ -1,0 +1,32 @@
+[
+    {
+        "record_id": "rec_001",
+        "title": "health_insurance_policy",
+        "source": "health_insurance_policy.txt",
+        "category": "knowledge_base",
+        "version": "1.0",
+        "has_pii": false,
+        "content": "Health Insurance Premium & Qualification Policy - 2026\nPrepared by: Naman Panwar\nContact Email: pnwrnaman@gmail.com\nSupport Phone: +919634944560\n\n1. Overview & Qualifications\nThe Gold Tier Health Plan requires applicants to be between 18 and 65 years old. The base monthly premium is $450.\n\n2. Renewal & Grace Period\nPolicies expire annually. A 30-day grace period is granted for late payments. If payment is not received within 30 days, the policy lapses. Renewal forms must be submitted 15 days before expiration.\n\n3. Out of Scope & Escalation\nComplex claims involving pre-existing rare medical conditions must be escalated to a human supervisor immediately.",
+        "extraction_status": "success"
+    },
+    {
+        "record_id": "rec_002",
+        "title": "objections_and_escalation",
+        "source": "objections_and_escalation.txt",
+        "category": "knowledge_base",
+        "version": "1.0",
+        "has_pii": false,
+        "content": "Objections Handling & Escalation Rules - 2026\n\n1. Common Customer Objections\nObjection: \"Your interest rate is too high compared to standard banks.\"\nResponse: \"Our rates reflect non-collateral approval within 24 hours. We also offer zero penalty for early repayments.\"\n\nObjection: \"Why do you need 6 months of bank statements?\"\nResponse: \"Bank statements allow us to verify business cash flow without requesting physical collateral or property deeds.\"\n\n2. Human Escalation Triggers\nIf a customer requests legal modifications to the loan terms, explicitly state that you cannot modify legal terms and transfer the call to human assistance.",
+        "extraction_status": "success"
+    },
+    {
+        "record_id": "rec_003",
+        "title": "loan_qualification_faq",
+        "source": "loan_qualification_faq.html",
+        "category": "knowledge_base",
+        "version": "1.0",
+        "has_pii": false,
+        "content": "Business Loan Qualifications & FAQ\nBusiness Loan Qualifications\nTo qualify for an unsecured business loan, your business must have been operational for at least 12 months with a minimum annual revenue of $100,000.\nFrequently Asked Questions\nQ: What is the loan approval timeline?\nA: Pre-approval takes 24 hours, and funds are disbursed within 3 business days upon document verification.",
+        "extraction_status": "success"
+    }
+]
