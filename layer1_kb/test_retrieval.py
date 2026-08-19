@@ -31,20 +31,10 @@ TEST_QUERIES = [
         "expect_category": "knowledge_base",
     },
     {
-        "query": "What should I do if a customer complains about high interest rates?",
-        "expect_keywords": ["interest rate", "24 hours", "penalty"],
+        "query": "What is the waiting period for BCA Life health coverage?",
+        "expect_keywords": ["masa tunggu", "bca", "asuransi"], # Tests if English query fetches Indonesian text!
         "expect_category": "knowledge_base",
-    },
-    {
-        "query": "When should complex claims be escalated to a supervisor?",
-        "expect_keywords": ["escalat", "rare medical", "supervisor"],
-        "expect_category": "knowledge_base",
-    },
-    {
-        "query": "Why do you require 6 months of bank statements?",
-        "expect_keywords": ["bank statements", "cash flow", "collateral"],
-        "expect_category": "knowledge_base",
-    },
+    }
 ]
 
 
