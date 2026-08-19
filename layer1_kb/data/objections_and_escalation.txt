@@ -1,0 +1,11 @@
+Objections Handling & Escalation Rules - 2026
+
+1. Common Customer Objections
+Objection: "Your interest rate is too high compared to standard banks."
+Response: "Our rates reflect non-collateral approval within 24 hours. We also offer zero penalty for early repayments."
+
+Objection: "Why do you need 6 months of bank statements?"
+Response: "Bank statements allow us to verify business cash flow without requesting physical collateral or property deeds."
+
+2. Human Escalation Triggers
+If a customer requests legal modifications to the loan terms, explicitly state that you cannot modify legal terms and transfer the call to human assistance.
