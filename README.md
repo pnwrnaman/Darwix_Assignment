@@ -43,3 +43,9 @@ layer4_nudges/         design plan (not implemented)
 - Local inference (Ollama) won't hold up at production concurrency — would move to hosted GPU inference.
 - Cloudflare Tunnel is demo-grade; production would use a proper deployment + domain.
 - Layers 3 and 4 are documented but not built due to the assessment time window.
+
+
+
+
+## HOW ITS WORKING SO FAR
+[Click here to view working video](https://drive.google.com/file/d/1eG56fPuWvQrsvjj6cN2bGO0x12waLMKl/view?usp=sharing)
