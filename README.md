@@ -48,4 +48,4 @@ layer4_nudges/         design plan (not implemented)
 
 
 ## HOW ITS WORKING SO FAR
-[Click here to view the arch flow and working video ](https://drive.google.com/file/d/1eG56fPuWvQrsvjj6cN2bGO0x12waLMKl/view?usp=sharing)
+[Click here to view the architechture flow and working video ](https://drive.google.com/file/d/1eG56fPuWvQrsvjj6cN2bGO0x12waLMKl/view?usp=sharing)
